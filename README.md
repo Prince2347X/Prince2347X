@@ -1,4 +1,11 @@
 ### Hi there 👋
+> I'm a potato. I can make discord bots for your server! #TalentedPotato
+- # HungryLearner
+- Currently learning Django.
+- **PythonGuy (Actually potato :potato:)**
+- Always ready to explore!
+- Contact me on [Instagram](https://instagram.com/prince_2347x)
+
 
 <!--
 **Prince2347X/Prince2347X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
