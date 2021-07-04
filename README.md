@@ -5,14 +5,13 @@
 [![](https://img.shields.io/static/v1?label=Prince2347X&logo=instagram&message=Follow&color=ff70b4)](https://instagram.com/prince2347x)
 [![](https://img.shields.io/static/v1?label=Prince%20Raj&logo=linkedin&message=Follow&color=white)](https://linkedin.com/in/prince2347x)
 > I'm a potato. I can make personalized discord bot for your server! #TalentedPotato 😁
-- Currently working on ProDude, a virtual tools app...
-- # #HungryLearner😋
-  - [ ] C++ (Currently Learning...)
+- Something secretly is going on...
+- # #HungryLearner
+  - [ ] Exploring kivy & kivymd
   - [X] Python 🐍
-  - [X] OOP 
-  - [X] Kivy
+  - [X] OOP
   - [X] MySQL 🐬
-  - [X] MonDB 🍃
+  - [X] MongoDB 🍃
   - [X] VCS :cat:
 - **#PythonGuy🐍(Actually potato :potato:)**
 - Always ready to explore!
