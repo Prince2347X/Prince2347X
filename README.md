@@ -7,7 +7,7 @@
 > I'm a potato. I can make personalized discord bot for your server! #TalentedPotato 😁
 - Something secretly is going on...
 - # #HungryLearner
-  - [ ] Exploring kivy & kivymd
+  - [ ] Exploring Flutter & Dart
   - [X] Python 🐍
   - [X] OOP
   - [X] MySQL 🐬
