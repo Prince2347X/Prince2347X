@@ -1,21 +1,34 @@
-### Hi there 👋 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Prince Raj! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <p><em>Software Engineer Intern at <a href="https://manastik.com/">Manastik
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> -->
+
 ![](https://komarev.com/ghpvc/?username=Prince2347X&color=brightgreen&style=plastic)
-[![](https://img.shields.io/static/v1?label=Prince2347X&logo=github&message=Follow&color=black)](https://github.com/prince2347x)
+[![](https://img.shields.io/static/v1?label=Prince%20Raj&logo=linkedin&message=Connect&color=white)](https://linkedin.com/in/prince2347x)
 [![](https://img.shields.io/static/v1?label=Prince2347X&logo=twitter&message=Follow&color=informational)](https://twitter.com/intent/follow?screen_name=Prince2347X)
-[![](https://img.shields.io/static/v1?label=Prince2347X&logo=instagram&message=Follow&color=ff70b4)](https://instagram.com/prince2347x)
-[![](https://img.shields.io/static/v1?label=Prince%20Raj&logo=linkedin&message=Follow&color=white)](https://linkedin.com/in/prince2347x)
-> I'm a potato. I can make personalized discord bot for your server! 
 
-> Potato is learning app development to build apps as per your requirements. 
 
-> #TalentedPotato 😁
-
-- # #HungryLearner
+- ### #HungryLearner
   - [ ] Exploring Flutter & Dart
   - [X] Python 🐍
-  - [X] OOP
+  - [X] OOPs
   - [X] MySQL 🐬
   - [X] MongoDB 🍃
   - [X] VCS :cat:
-- **#PythonGuy🐍 (Actually potato :potato:)**
 - Always ready to explore!
+
+
+### Stats
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prince2347X" alt="Prince's GitHub stats" width="510" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince2347X&layout=compact" alt="Top Langs" width="400" />
+  </a>
+</div>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prince2347X&theme=dark)](https://git.io/streak-stats)
