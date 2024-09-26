@@ -20,15 +20,18 @@
 
 
 ### Stats
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<p aligh="center">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Prince2347X" alt="Prince's GitHub stats" width="510" />
-  </a>
+  </a> -->
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince2347X&layout=compact" alt="Top Langs" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince2347X&layout=compact" alt="Top Langs" width="400" height="200"/>
   </a>
-</div>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Prince2347X&theme=dark" alt="Streak" width="400" height="200"/>
+  </a>
+</p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prince2347X&theme=dark)](https://git.io/streak-stats)
