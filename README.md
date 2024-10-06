@@ -10,7 +10,8 @@
 
 
 - ### #HungryLearner
-  - [ ] Exploring Flutter & Dart
+  - [ ] Go lang
+  - [X] Flutter & Dart
   - [X] Python 🐍
   - [X] OOPs
   - [X] MySQL 🐬
