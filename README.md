@@ -5,8 +5,8 @@
 </em></p> -->
 
 ![](https://komarev.com/ghpvc/?username=Prince2347X&color=brightgreen&style=plastic)
-[![](https://img.shields.io/static/v1?label=Prince%20Raj&logo=linkedin&message=Connect&color=white)](https://linkedin.com/in/prince2347x)
-[![](https://img.shields.io/static/v1?label=Prince2347X&logo=twitter&message=Follow&color=informational)](https://twitter.com/intent/follow?screen_name=Prince2347X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Raj-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince2347x)
+[![X](https://img.shields.io/badge/Prince2347X-1DA1F2?style=plastic&logo=x&logoColor=white)](https://twitter.com/intent/follow?screen_name=Prince2347X)
 
 
 - ### #HungryLearner
