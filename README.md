@@ -197,6 +197,7 @@ I believe in giving back to the tools and developer ecosystems I rely on every d
 
 - 🥇 **1st Place Winner** — *igebra.ai GenAI Hackathon (Apr 2025)*: Built an AI-powered personalized learning experience at SSIPMT organized with Young Indians.
 - 🏅 **1st Team Prize** — *AI Ideathon, Navonmesh (Nov 2025)*: Presentend an AI powered urodynamic device.
+- 🧬 **Finalist** - *NBEC - 9th Edition, 2025*
 - 🚀 **Hackathon Participant** — *HackNITR 4.0 (2023)*, *HackBIOS (2023)*, *Hack This Fall (2024), Navonmesh 2.0 (2025)*.
 
 
@@ -206,7 +207,7 @@ I believe in giving back to the tools and developer ecosystems I rely on every d
 <summary><b>Academics </b></summary>
 
 - **Patent & [Publications](https://doi.org/10.65521/intjournalrecadvengtech.v15i1.2065)** -  Uropine: A MEMS based economic urodynamic system
-- **President** - [Computer Science Association](https://www.instagram.com/p/DPlwAEmgZWR/), CSE Dept, SSIPMT Raipur
+- **President** - [Computer Science Association](https://ssipmt.edu.in/cse.php#computer-s-association), CSE Dept, SSIPMT Raipur
 - **Software Development Club Lead** - [Student Activity Centre](https://sac-ssipmt.web.app/), SSIPMT Raipur
 - **Student Ambassador** - AICTE Idea Lab, SSIPMT Raipur
 
