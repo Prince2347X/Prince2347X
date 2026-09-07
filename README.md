@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi, I'm Prince Raj 👋
-  ### *From mobile screens to the systems behind them.*
+  ### *Building mobile screens to the systems behind them.*
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Full+Stack+Engineer+%40+Manastik;Mobile+Apps+%2B+Backend+%2B+DevOps;Flutter+%C2%B7+Python+%C2%B7+Nodejs+%C2%B7+AWS" alt="Typing SVG" />
