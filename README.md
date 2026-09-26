@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm Prince Raj 👋
+  # FYI, I'm [Prince Raj](https://princeraj.fyi) 👋
   ### *Building mobile screens & the systems behind them.*
 
   <a href="https://readme-typing-svg.demolab.com">
